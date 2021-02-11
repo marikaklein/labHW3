@@ -39,7 +39,7 @@
 	letter-spacing: 4px;
 	text-decoration: underline;
 	position: relative;
-	bottom: 500px;
+	bottom: 515px;
 }
 
 .text2 {
@@ -51,5 +51,11 @@
 	line-height: 25px;
 	letter-spacing: 2px;
 	position: relative;
+	bottom: 515px;
+}
+
+.img {
+	position: relative;
 	bottom: 500px;
+	padding-left: 800px;
 }
